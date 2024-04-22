@@ -13,7 +13,7 @@ This project is an Attendance Management System implemented using Python and fac
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/attendance-management-system.git
+   git clone https://github.com/ayush8587/attendance-management-system.git
    ```
 2. Install the required dependencies using pip:
     ```bash
@@ -22,16 +22,6 @@ This project is an Attendance Management System implemented using Python and fac
 3. Download pre-trained face recognition models and place them in the appropriate directory within the project.
 4. Configure the database settings in config.py according to your preferences.
  
-
-## Installation
-
-1. Run the main script to start the Attendance Management System:
-
-```bash
-  npm install my-project
-  cd my-project
-```
-2. Follow the instructions on the user interface to perform various actions such as marking attendance, adding new users, etc.
     
 ## Dependencies
 
