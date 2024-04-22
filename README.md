@@ -13,7 +13,7 @@ This project is an Attendance Management System implemented using Python and fac
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/ayush8587/attendance-management-system.git
+   git clone https://github.com/ayush8587/Attendance-Management-System-based-on-Face-Recognition.git
    ```
 2. Install the required dependencies using pip:
     ```bash
